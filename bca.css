@@ -1,0 +1,16 @@
+.Heading{
+    color: antiquewhite;
+}
+#Heading2{
+    color: chartreuse;
+}
+.Parent{
+    height: auto;
+    width: auto;
+    background-color: rebeccapurple;
+    border: 10px inset crimson;
+}
+.Parent .child p{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
